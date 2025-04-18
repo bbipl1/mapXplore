@@ -89,7 +89,7 @@ const WelcomeSection = () => {
 	return (
 		<section className="w-full md:w-2/3 bg-white p-6 shadow-lg rounded-xl">
 			<h2 className="text-3xl font-extrabold text-gray-800">
-				Welcome to Universal Map Solutions
+				Welcome to mapXplore
 			</h2>
 			<p className="text-gray-600 mt-2 leading-relaxed">
 				Explore interactive maps of India—navigate through states,

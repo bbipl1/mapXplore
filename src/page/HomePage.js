@@ -8,7 +8,7 @@ const HomePage = () => {
   return (
     <div>
       <h1 className="text-center mt-10 text-3xl font-bold">
-        Welcome to Universal Map Solutions
+        Welcome to mapXplore
       </h1>
 
       {/* Sidebar and Main Content */}
