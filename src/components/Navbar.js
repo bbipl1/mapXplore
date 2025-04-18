@@ -143,7 +143,7 @@ const Navbar = () => {
 						className="h-12 rounded-md shadow-sm"
 					/>
 					<span className="text-2xl font-bold text-red-600">
-						Universal<span className="text-blue-600">Map</span><span className="text-purple-600">Solutions </span>
+						mapXplore
 					</span>
 				</div>
 
