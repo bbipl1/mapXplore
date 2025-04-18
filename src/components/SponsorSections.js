@@ -7,7 +7,7 @@ const SponsorSection = () => {
         Become Our Sponsors
       </h2>
       <p className="text-gray-700 mt-2">
-        MapsOfIndia.com is a leading resource for India maps and attracts over 11 million visitors per month.
+        mapXplore is a leading resource for Indianmaps and attracts over 11 million visitors per month.
         Sponsor with us for only ₹40,000 per year and gain visibility for your business.
       </p>
       <ul className="mt-2 list-disc pl-4 text-gray-600 text-sm">

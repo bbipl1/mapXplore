@@ -92,7 +92,7 @@ const WelcomeSection = () => {
 				Welcome to mapXplore
 			</h2>
 			<p className="text-gray-600 mt-2 leading-relaxed">
-				Explore interactive maps of India—navigate through states,
+				Explore interactive  indian-maps—navigate through states,
 				cities, and discover rich cultural and geographical diversity.
 			</p>
 			<div className="mt-6 w-full rounded-lg shadow-md">
